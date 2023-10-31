@@ -1,5 +1,3 @@
-<h2 align=center><b>Sistema de Informação Gerencial para Unidades de Pronto Atendimento</b></h2>
-
 <img src="https://github.com/kelvin-hey/sig-upa/blob/main/src/br/com/sigupa/img/wall.png"/>
 
 ### Descrição
