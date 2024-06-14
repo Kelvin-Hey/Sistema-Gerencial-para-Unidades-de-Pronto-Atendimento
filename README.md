@@ -1,5 +1,5 @@
-<p align="center">
-  <img height="128px" src="https://github.com/kelvin-hey/sig-upa/blob/main/src/br/com/sigupa/img/banner.png"/>
+<p align="center">    
+  <img height="128px" src="https://github.com/kelvin-hey/sig-upa/blob/main/src/br/com/sigupa/img/Logo%20-%20SIG%20UPA.png"/>
 </p>
 
 <p align="center">
@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/github/license/kelvin-hey/sig-upa">
   <img src="https://img.shields.io/github/repo-size/kelvin-hey/sig-upa">
 </p>
-
-<img src="https://github.com/kelvin-hey/sig-upa/blob/main/src/br/com/sigupa/img/Logo%20-%20SIG%20UPA.png"/>
 
 ## Descrição
 
